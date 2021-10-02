@@ -18,6 +18,10 @@
   "homepage": "https://github.com/znetstar/csci-426-group-project#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "node-fetch": "^3.0.0"
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.5",
+    "playwright": "^1.15.1",
+    "similarity": "^1.2.1",
+    "wikipedia": "^1.1.6"
   }
 }
